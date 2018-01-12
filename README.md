@@ -1,0 +1,2 @@
+# Kaggle-prediction
+源自毕业论文是关于预测，所以通过阅读Kaggle上关于预测的比赛data及github分享的代码，增加自己的论文思考
